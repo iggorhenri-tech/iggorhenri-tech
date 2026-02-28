@@ -44,6 +44,15 @@ I hold Cisco certifications in Networking and Cybersecurity and am currently enr
 ![KALI](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=iggorhenri-tech&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iggorhenri-tech&layout=compact&theme=tokyonight" />
+</p>
+
 ## 🚀 Philosophy
 
 > _"Technology is not just about coding.  
