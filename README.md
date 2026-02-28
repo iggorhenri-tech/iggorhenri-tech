@@ -1,35 +1,25 @@
 # Hi 👋, I'm Igor Henrique
 
 🚀 **Java Junior Developer | Network Analyst | Information Systems Student**  
-🇧🇷 Rio de Janeiro, Brazil  
+🇧🇷 Rio de Janeiro, Brazil
 
 I am passionate about **technology, software development, and networking**.  
-Currently pursuing a **Bachelor’s degree in Information Systems** at Estácio de Sá University, I combine academic projects with practical experience in **Java development** and **computer maintenance**.  
+Currently pursuing a **Bachelor’s degree in Information Systems** at Estácio de Sá University, I combine academic projects with practical experience in **Java development** and **computer maintenance**.
 
-I hold **Cisco certifications** in networking and cybersecurity and I am enrolled in **AWS Academy programs** (Cloud Architecting, Cloud Developing, Machine Learning Foundations, CyberOps Associate).  
+I hold Cisco certifications in Networking and Cybersecurity and am currently enrolled in the Cisco CyberOps Associate and AWS Academy programs (Cloud Architecting, Cloud Developing, and Machine Learning Foundations).
 
 ---
 
-## 🌐 Where to find me
-
-<p align="left">
-  <a href="https://github.com/iggorhenri">
-    <img src="https://img.shields.io/badge/GitHub-IGGORHENRI-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/igor-henrique-26b149218">
-    <img src="https://img.shields.io/badge/LinkedIn-IGOR%20HENRIQUE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
+## 🌐 Where to find me <p align="left"> <a href="https://github.com/iggorhenri"> <img src="https://img.shields.io/badge/LinkedIn-IGOR%20HENRIQUE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <br> <a href="mailto:iggorhenri@gmail.com"> <img src="https://img.shields.io/badge/Email-IGGORHENRI%40GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
 ---
 
 ## 🧠 What I do
 
--   💻 Java development (academic projects & practice)  
--   🔧 Computer maintenance & troubleshooting  
--   🌐 Networking & cybersecurity (Cisco certified)  
--   ☁️ Cloud computing (AWS Academy student)  
--   📚 Continuous learning in Information Systems  
+-   💻 Java development (academic projects & practice)
+-   🔧 Computer maintenance & troubleshooting
+-   🌐 Networking & cybersecurity (Cisco certified)
+-   ☁️ Cloud computing (AWS Academy student)
+-   📚 Continuous learning in Information Systems
 
 ---
 
@@ -52,7 +42,7 @@ I hold **Cisco certifications** in networking and cybersecurity and I am enrolle
 ## 🚀 Philosophy
 
 > _"Technology is not just about coding.  
-> It's about solving problems, connecting people, and creating value."_  
+> It's about solving problems, connecting people, and creating value."_
 
 ---
 
