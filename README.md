@@ -51,10 +51,7 @@ I hold Cisco certifications in Networking and Cybersecurity and am currently enr
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=iggorhenri-tech&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iggorhenri-tech&layout=compact&theme=tokyonight" />
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iggorhenri-tech&theme=transparent)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iggorhenri-tech&theme=transparent&border_radius=5&exclude_days=Sun%2CSat&card_width=650)](https://git.io/streak-stats)
 
 ---
 
