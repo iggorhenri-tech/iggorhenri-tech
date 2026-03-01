@@ -10,7 +10,10 @@ I hold Cisco certifications in Networking and Cybersecurity and am currently enr
 
 ---
 
-## 🌐 Where to find me <p align="left"> <a href="https://github.com/iggorhenri-tech"> <img src="https://img.shields.io/badge/GitHub-IGGORHENRI-181717?style=for-the-badge&logo=github" /> </a> <br> <a href="https://www.linkedin.com/in/igor-henrique-26b149218"> <img src="https://img.shields.io/badge/LinkedIn-IGOR%20HENRIQUE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <br> <a href="mailto:iggorhenri@gmail.com"> <img src="https://img.shields.io/badge/Email-IGGORHENRI%40GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+## 🌐 Where to find me
+
+<p align="left"> <a href="https://github.com/iggorhenri-tech"> <img src="https://img.shields.io/badge/GitHub-IGGORHENRI-181717?style=for-the-badge&logo=github" /> </a> <br> <a href="https://www.linkedin.com/in/igor-henrique-26b149218"> <img src="https://img.shields.io/badge/LinkedIn-IGOR%20HENRIQUE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <br> <a href="mailto:iggorhenri@gmail.com"> <img src="https://img.shields.io/badge/Email-IGGORHENRI%40GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+
 ---
 
 ## 🧠 What I do
@@ -52,6 +55,8 @@ I hold Cisco certifications in Networking and Cybersecurity and am currently enr
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=iggorhenri-tech&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iggorhenri-tech&layout=compact&theme=tokyonight" />
 </p>
+
+---
 
 ## 🚀 Philosophy
 
