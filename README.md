@@ -51,7 +51,11 @@ I hold Cisco certifications in Networking and Cybersecurity and am currently enr
 
 ## 📊 GitHub Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iggorhenri-tech&theme=transparent)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iggorhenri-tech&theme=transparent&border_radius=0&short_numbers=true&exclude_days=Sun%2CSat&card_width=600)](https://git.io/streak-stats)
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iggorhenri-tech&theme=transparent) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iggorhenri-tech&theme=transparent) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iggorhenri-tech&theme=transparent&utcOffset=8) |
+|:-:|:-:|:-:|
+
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iggorhenri-tech&theme=transparent&border_radius=0&short_numbers=true&exclude_days=Sun%2CSat&card_width=600)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iggorhenri-tech&theme=transparent) |
+|:-:|:-:|
 
 ---
 
