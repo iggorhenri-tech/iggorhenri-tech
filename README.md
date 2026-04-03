@@ -3,7 +3,7 @@
 🚀 **Java Junior Developer | Network Analyst | Information Systems Student**  
 🇧🇷 Rio de Janeiro, Brazil
 
-I am passionate about **technology, software development, and networking**.  
+I am passionate about **software development, and networking**.  
 Currently pursuing a **Bachelor’s degree in Information Systems** at Estácio de Sá University, I combine academic projects with practical experience in **Java development** and **computer maintenance**.
 
 I hold Cisco certifications in Networking and Cybersecurity and am currently enrolled in the Cisco CyberOps Associate.
