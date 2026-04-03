@@ -1,6 +1,6 @@
 # Hi 👋, I'm Igor Henrique
 
-🚀 **Java Junior Developer | Network Analyst | Information Systems Student**  
+🚀 **Java Junior Developer | Networks Analyst | Information Systems Student**  
 🇧🇷 Rio de Janeiro, Brazil
 
 I am passionate about **software development, and networks**.  
